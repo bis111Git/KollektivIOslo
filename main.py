@@ -8,12 +8,9 @@ Created on Sun Jan 30 07:33:12 2022
 import requests
 import json
 import pandas as pd
-import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
 import plotly.express as px
-import seaborn as sns
-from streamlit import caching
+
 
 st.set_page_config(layout = "wide")
 
